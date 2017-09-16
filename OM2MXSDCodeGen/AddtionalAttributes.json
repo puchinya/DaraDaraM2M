@@ -1,0 +1,30 @@
+﻿{
+  "types": [
+    {
+      "name": "accessControlPolicy",
+      "attributes": [
+        {
+          "name": "resourceName",
+          "create": "O",
+          "update": "NP"
+        },
+        {
+          "name": "resourceType",
+          "create": "NP",
+          "update": "NP"
+        },
+        {
+          "name": "parentID",
+          "create": "NP",
+          "update": "NP"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "attributes": [
+        
+      ]
+    }
+  ]
+}
